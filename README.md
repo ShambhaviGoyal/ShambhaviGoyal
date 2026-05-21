@@ -13,31 +13,9 @@
 
 ### 🚀 Currently
 
-- 🎓 **Undergraduate** · Computer Science @ University at Buffalo (Expected Dec 2026)
+- 🎓 **Undergraduate** · Computer Science @ University at Buffalo 
 - 💻 **SWE Intern** · Meta Layer Initiative
 - 💡 **Focus:** Full-stack · Real-time · Web · Systems
-
----
-
-### 🏗️ Selected Builds
-
-Here are a few projects I've built end-to-end, ranging from real-time occupancy trackers to OS kernels. You can view all of my work on my [Personal Portfolio](https://shambhavi.is-a.dev/).
-
-#### 🚙 [Driver Assistance System](https://github.com/ShambhaviGoyal/Driver-Assistance-System.git)
-**Python • TensorFlow • CNN • OpenCV • MediaPipe**  
-Monitors real-time driver behavior using a custom-trained CNN and MediaPipe's 3D facial geometry mapping. Processes live webcam feeds to detect drowsiness, distraction, and yawning to prevent accidents.
-
-#### 💸 [Settle Up](https://github.com/ShambhaviGoyal/settle-up)
-**React Native • TypeScript • Node.js • Express • PostgreSQL • OpenAI**  
-A full-stack expense-splitting app. Supports equal/custom splits, real-time balance tracking, and automated receipt parsing using OpenAI Vision. 
-
-#### 🗺️ [CrowdSense](https://github.com/HP-002/crowdsense.git)
-**YOLO • FastAPI • WebSockets • React Native • Expo**  
-A real-time mobile app tracking campus occupancy. Processes live CCTV feeds with Ultralytics YOLO to detect crowd levels, streamed to a React Native app over WebSockets.
-
-#### ⚙️ [Pintos Operating System (Stanford)](https://github.com/ShambhaviGoyal/Pintos)
-**C • Kernel • Scheduling • System Calls**  
-Implemented the threading component of an OS kernel. Built synchronization primitives, the Multilevel Feedback Queue Scheduler (MLFQS), and the system-call interface managing kernel/user mode transitions.
 
 ---
 
